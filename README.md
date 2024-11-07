@@ -25,3 +25,4 @@ This project is a simple web-based diary application built with Flask. Users can
 - **Your diary stays private**. The app uses session storage, ensuring no data is saved once your session ends.
 - The app.secret_key is used to sign session data. Replace 'your_secret_key' with a secure, random value in production.
 
+https://github.com/user-attachments/assets/f92a4437-bd1b-483d-a9f6-40306901ce14
