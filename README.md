@@ -12,20 +12,20 @@ This project is a simple web-based diary application built with Flask. Users can
 - **Session-Based Privacy**: All entries are stored in your session, keeping them private and secure during your browsing session.
 
 # Usage
-## Register a New Account:
+## 1. Register a New Account:
 - Visit /register to create an account with a unique username and password.
 
-## Log In:
+## 2. Log In:
 - Visit /login to access your diary.
   
-## Home Page:
+## 3. Home Page:
 - The home page displays all diary entries.
 - Use the input form to add new entries.
 
-## Edit an Entry:
+## 4. Edit an Entry:
 - Click the "Edit" button next to an entry to modify it.
 
-## Delete an Entry:
+## 5. Delete an Entry:
 - Click the "Delete" button next to an entry to remove it.
 
 # Security
