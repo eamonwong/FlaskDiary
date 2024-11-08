@@ -7,7 +7,7 @@ app.secret_key = 'your_secret_key'
 
 # Dictionary to store user accounts
 users = {
-    # create own password here 
+    # create own username here 
     'username': {
         # create password in () 
         'password': generate_password_hash('password'),
